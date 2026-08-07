@@ -24,7 +24,7 @@
 <div align="center">
 
 ### 💻 Desktop Home Page View | واجهة سطح المكتب الرئيسية
-![Desktop View](public/screenshots/home-desktop.png)
+![Desktop View](public/screenshots/home-desktop.png?v=2)
 
 <br/>
 
