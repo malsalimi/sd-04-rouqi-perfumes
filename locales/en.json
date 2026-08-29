@@ -117,11 +117,11 @@
     "payment_method": "Demo Payment Method",
     "cod": "Cash on Delivery (Demo)",
     "credit_card": "Credit Card (Demo)",
-    "place_order": "Confirm Demo Order",
-    "success_title": "Thank You! Your Demo Order is Placed",
-    "success_desc": "Demo Order Reference: #RQ-",
+    "place_order": "Confirm Order",
+    "success_title": "Thank You! Your Order is Placed",
+    "success_desc": "Order Reference: #RQ-",
     "back_to_shop": "Return to Store",
-    "demo_warning": "Notice: Fictional portfolio project created for demonstration."
+    "demo_warning": "Complimentary luxury gift box packaging with all orders."
   },
   "about": {
     "hero_title": "The Rouqi Story",
@@ -147,13 +147,13 @@
     "form_subject": "Subject",
     "form_message": "Your Message",
     "form_submit": "Send Message",
-    "form_success": "Thank you for reaching out! This is a demo interface.",
-    "info_email_title": "Demo Email",
-    "info_phone_title": "Demo Phone",
-    "info_address_title": "Demo Location",
-    "info_email": "contact@rouqiperfumes-demo.com",
-    "info_phone": "+0000000000",
-    "info_address": "Digital City, Demo Location",
+    "form_success": "Thank you for reaching out! Our team will reply shortly.",
+    "info_email_title": "Email Address",
+    "info_phone_title": "Phone Number",
+    "info_address_title": "Boutique Location",
+    "info_email": "contact@rouqiperfumes.com",
+    "info_phone": "+967 772 076 053",
+    "info_address": "Yemen - Ibb - Taiz Street",
     "faq_title": "Frequently Asked Questions"
   },
   "footer": {
@@ -164,8 +164,8 @@
     "subscribe": "Subscribe",
     "subscribed_success": "Subscribed successfully!",
     "email_placeholder": "Enter your email address",
-    "demo_disclaimer": "Demo project created for portfolio purposes.",
+    "demo_disclaimer": "Rouqi Luxury Perfumes • Registered Brand.",
     "rights": "All Rights Reserved © 2026 Rouqi Perfumes.",
-    "collection_tag": "Salimi Digital (SD) Collection | Developed by Salimi Tech"
+    "collection_tag": "Rouqi Luxury Perfumes Store"
   }
 }

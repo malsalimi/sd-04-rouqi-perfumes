@@ -298,7 +298,7 @@ http://localhost:3000
       <p>
         🌐 <a href="https://salimi-tech.vercel.app">salimi-tech.vercel.app</a> &nbsp;|&nbsp;
         🐙 <a href="https://github.com/malsalimi">github.com/malsalimi</a> &nbsp;|&nbsp;
-        📞 <a href="tel:+967772076053">+967 772 076 053</a>
+        📞 <a href="tel:+967736577725">+967 736577725</a>
       </p>
       <p>© 2026 Mohammed Al Salimi. All Rights Reserved.</p>
     </td>

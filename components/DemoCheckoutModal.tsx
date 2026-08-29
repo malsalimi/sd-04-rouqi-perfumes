@@ -15,12 +15,12 @@ export const DemoCheckoutModal: React.FC<{ isOpen: boolean; onClose: () => void 
   const [step, setStep] = useState<"form" | "success">("form");
   const [orderRef, setOrderRef] = useState("");
   const [formData, setFormData] = useState({
-    name: "Laila Sami",
-    email: "client@example-demo.com",
-    phone: "+0000000000",
-    address: "Digital City, Tower 4",
-    city: "Riyadh",
-    country: "Saudi Arabia",
+    name: "سارة أحمد",
+    email: "client@rouqiperfumes.com",
+    phone: "+967 772 076 053",
+    address: "شارع تعز",
+    city: "إب",
+    country: "اليمن",
     paymentMethod: "cod",
   });
 

@@ -6,9 +6,9 @@ import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "رُقي للعطور الفاخرة | Rouqi Perfumes Demo",
+  title: "رُقي للعطور الفاخرة | Rouqi Luxury Perfumes",
   description:
-    "علامة عطور تجريبية تقدم روائح فاخرة تجمع بين الأصالة والأناقة. A fictional luxury fragrance brand creating elegant scents inspired by sophistication and individuality.",
+    "متجر عطور فاخرة يقدم أرقى الخلطات الشرقية والغربية ونسائم العود والعنبر الفاخر مع خدمة التوصيل السريع.",
 };
 
 export default function RootLayout({

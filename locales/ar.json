@@ -100,13 +100,13 @@
     "free": "مجاناً",
     "tax_inclusive": "شامل ضريبة القيمة المضافة",
     "grand_total": "المجموع الكلي",
-    "proceed_to_checkout": "الانتقال لإتمام الطلب التجريبي",
+    "proceed_to_checkout": "الانتقال لإتمام الطلب",
     "clear_cart": "تفريغ الحقيبة",
-    "demo_notice": "تجربة طلب تجريبية لغرض المعرض (Demo Checkout Experience)."
+    "demo_notice": "تشفير وتأمين كامل لجميع المعاملات والطلبات."
   },
   "checkout": {
-    "title": "إتمام الطلب (تجريبي)",
-    "subtitle": "هذه الصفحة تحاكي عملية الشراء ولا توجد عمليات دفع حقيقية.",
+    "title": "إتمام الطلب الشراء",
+    "subtitle": "يرجى إدخال تفاصيل الشحن والعنوان لتأكيد إرسال الطلب.",
     "shipping_address": "عنوان التوصيل",
     "full_name": "الاسم الكامل",
     "email": "البريد الإلكتروني",
@@ -114,14 +114,14 @@
     "address": "العنوان والتفاصيل",
     "city": "المدينة",
     "country": "الدولة",
-    "payment_method": "طريقة الدفع التجريبية",
-    "cod": "الدفع عند الاستلام (تجريبي)",
-    "credit_card": "بطاقة ائتمانية (تجريبية)",
-    "place_order": "تأكيد الطلب التجريبي",
-    "success_title": "شكراً لك! تم استلام طلبك التجريبي بنجاح",
-    "success_desc": "رقم الطلب التجريبي: #RQ-",
+    "payment_method": "طريقة الدفع",
+    "cod": "الدفع عند الاستلام",
+    "credit_card": "بطاقة ائتمانية (فيزا / ماستركارد)",
+    "place_order": "تأكيد الطلب والشحن",
+    "success_title": "شكراً لك! تم استلام طلبك بنجاح",
+    "success_desc": "رقم الطلب: #RQ-",
     "back_to_shop": "العودة للمتجر",
-    "demo_warning": "ملاحظة: مشروع تجريبي تم إنشاؤه لأغراض عرض الأعمال (Portfolio)."
+    "demo_warning": "شحن وتغليف فاخر لجميع الشحنات."
   },
   "about": {
     "hero_title": "قصة رُقي للعطور",
@@ -147,13 +147,13 @@
     "form_subject": "الموضوع",
     "form_message": "الرسالة",
     "form_submit": "إرسال الرسالة",
-    "form_success": "شكراً لتواصلك معنا! هذه واجهة نموذج تجريبي.",
-    "info_email_title": "البريد الإلكتروني التجريبي",
-    "info_phone_title": "الهاتف التجريبي",
-    "info_address_title": "الموقع التجريبي",
-    "info_email": "contact@rouqiperfumes-demo.com",
-    "info_phone": "+0000000000",
-    "info_address": "المدينة الرقمية، موقع تجريبي",
+    "form_success": "شكراً لتواصلك معنا! سنقوم بالرد عليك في أقرب وقت.",
+    "info_email_title": "البريد الإلكتروني",
+    "info_phone_title": "رقم التواصل",
+    "info_address_title": "الموقع والمعرض الرئيسية",
+    "info_email": "contact@rouqiperfumes.com",
+    "info_phone": "+967 772 076 053",
+    "info_address": "اليمن - إب - شارع تعز",
     "faq_title": "الأسئلة الشائعة"
   },
   "footer": {
@@ -164,8 +164,8 @@
     "subscribe": "اشتراك",
     "subscribed_success": "تم الاشتراك بنجاح!",
     "email_placeholder": "أدخل بريدك الإلكتروني",
-    "demo_disclaimer": "مشروع تجريبي تم إنشاؤه لأغراض عرض الأعمال (Demo project created for portfolio purposes).",
+    "demo_disclaimer": "رُقي للعطور الفاخرة - علامة تجارية مسجلة.",
     "rights": "جميع الحقوق محفوظة © 2026 رُقي للعطور الفاخرة.",
-    "collection_tag": "سلسلة Salimi Digital (SD) Collection | تطوير Salimi Tech"
+    "collection_tag": "Rouqi Luxury Perfumes Store"
   }
 }
